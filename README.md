@@ -72,3 +72,6 @@ Covers:
 - Unit tests for book & review endpoints
 - Integration test for cache-miss scenario
 
+## Author
+Somesh Mishra
+(Backend Developer)
